@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practice2</string>
+    <string name="mainbut1">play songs </string>
+    <string name="mainbut2">search cars</string>
+    <string name="mainbut3">calculate price</string>
+    <string name="radbut1">Power wasaher</string>
+    <string name="radbut2">Tiller</string>
+    <string name="calculate">Find price</string>
+    <string name="Butcal">Calculate Price</string>
+
+</resources>

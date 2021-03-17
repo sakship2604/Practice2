@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents">
+        <item name="actionBarStyle">@style/AppTheme.ActionBarStyle</item>
+        <item name="colorPrimary">#BC0D4A</item>
+        <item name="colorPrimaryVariant">#AE365E</item>
+        <item name="colorOnPrimary">@color/black</item>
+    </style>
+
+    <style name="AppTheme.ActionBarStyle" parent="Widget.AppCompat.ActionBar.Solid">
+        <item name="logo" >@mipmap/ic_launcher_round</item>
+        <item name="displayOptions" >showHome|useLogo|showTitle</item>
+    </style>
+</resources>
